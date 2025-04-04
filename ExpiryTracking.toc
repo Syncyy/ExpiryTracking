@@ -1,0 +1,8 @@
+## Interface: 110007
+## Title: Expiry Tracking
+## Version: 2
+## Author: Sumke
+## Notes: Tracks auction expiry times, for of Plusmouse's Expiry Tracker
+## RequiredDeps: Syndicator
+
+Main.lua
