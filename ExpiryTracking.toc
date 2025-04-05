@@ -6,3 +6,5 @@
 ## RequiredDeps: Syndicator
 
 Main.lua
+
+## X-Curse-Project-ID: 1235108
