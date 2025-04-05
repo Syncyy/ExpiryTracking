@@ -1,0 +1,3 @@
+package-as: Expiry Tracking
+required-dependencies:
+  - syndicator
